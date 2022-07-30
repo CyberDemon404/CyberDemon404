@@ -1,5 +1,6 @@
-<p align="center"><img src="https://img.shields.io/badge/HACKER%20AND-PROGRAMMER-MADE-IN-NIGERIA-green?colorA=%23ff0000&colorB=%23017e40&style=flat-square">
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=r4dif&label=Profile%20views&color=0e75b6&style=flat" alt="CyberDemon404" /> </p>
+ 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=CyberDemon404" alt="CyberDemon404" /></a> </p>
 <h3 align="center">
 
 <img src="https://emoji.discord.st/emojis/768b108d-274f-4f44-a634-8477b16efce7.gif" width="25">
@@ -9,7 +10,6 @@
 <img src="https://emoji.discord.st/emojis/768b108d-274f-4f44-a634-8477b16efce7.gif" width="25">
 
 </h3>
-
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Neuton&size=25&color=30FF40&background=000000&center=true&vCenter=true&width=360&height=60&lines=Hello+World%2C+I'm+CYBER-DEMON+Here+🤙;𝙸𝚃'𝚜+𝙽𝙾𝚃+𝙰+𝙹𝚄𝚂𝚃+𝙽𝙰𝙼𝙴+𝙱𝚁𝙾+🥱;𝙸𝚃'𝚜+𝙰+𝙱𝚁𝙰𝙽𝙳+🔥;Respect+Cyber👹+🥀;Today+I+Will+Tell+You+😇;Please+Follow+My+GitHub+🙏;Thanks+My+All+Friend+🤙+🥰;Love+From+Nigeria🇳🇬)](https://git.io/typing-svg)
 
